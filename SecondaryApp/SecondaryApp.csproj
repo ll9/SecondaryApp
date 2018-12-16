@@ -83,6 +83,7 @@
     <Reference Include="WindowsBase" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ExcelConverter.cs" />
     <Compile Include="SecondForm.cs">
       <SubType>Form</SubType>
     </Compile>
